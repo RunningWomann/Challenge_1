@@ -10,9 +10,8 @@ Other possible tables or graphs that could have been used.
 Determine whether the mean or median summarizes the data.
 Determine if there is more variability with successful or unsuccessful campaigns.
 # Files
-Sample Images
-Crowdfunding Excel
-Written Report Document
+''' Crowdfunding Excel
+''' Written Report Document
 # Dependencies/Programs
 Microsoft Excel
-Microsoft Word
+
